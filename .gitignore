@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Render
+.render-buildpacks.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
